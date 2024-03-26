@@ -1,0 +1,24 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Alessandro Silva",
+      "course": "computação"
+    },
+    {
+      "id": 2,
+      "name": "Roberto Souza",
+      "course": "computação"
+    },
+    {
+      "id": 3,
+      "name": "Marcos Felipe",
+      "course": "computação"
+    },
+    {
+      "id": 4,
+      "name": "antonio",
+      "course": "computação"
+    }
+  ]
+}
